@@ -1,0 +1,85 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.logo img{
+    height:80px;
+    width: 100px;
+    border: 5px solid white;
+    border-bottom: 0px;
+    margin-left: 100px;
+}
+.header{
+    display: flex;
+    background-color:#93aac4;
+    height: 82px;
+    align-items: center;
+    color: white;
+    font-size: 18px;
+}
+.mem:hover{
+color:#778c70
+}
+.name h2{
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mem{
+    margin-left: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.bu input{
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(249, 244, 244);
+    border-radius:50%;
+    width: 80px;
+    font-size: 15;
+}
+.bu input:hover{
+    color: #0253b0;
+}
+.body{
+    background: url("/image/bg.jpeg");
+    width:100%;
+background-repeat:no-repeat;
+height: 500px;
+background-attachment: fixed;
+background-size: cover;
+padding: 200px;
+margin-top: 0px;
+}
+.box{
+   background-color:#7a5e5e;
+   margin-left: 400px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: white;
+   height: 250px;
+}
+.fd{
+    margin-left: 130px;
+}
+
+.send input{
+    margin-left: 260px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(249, 244, 244);
+    border-radius:50%;
+    width: 80px;
+    font-size: 15;
+}
+.sent input:hover{
+    color: #0253b0;
+}
+.boxi{
+    margin-left: 45px;
+}
+.box h6{
+margin-left:220px;
+}
+
+.box h6:hover{
+    color: rgb(41, 3, 11);
+}
